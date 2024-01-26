@@ -1,4 +1,4 @@
-# Interactive Quiz App - My Senior Highschool Level Activity (July 2023)
+# Interactive Quiz App - My Senior High School Level Activity (July 2023)
 
 This interactive quiz app, created using Android Studio, offers a simple test and enhance our knowledge in the simple interaction of the Mobile App. This app is tailored to meet the academic needs of my senior high school level.
 
